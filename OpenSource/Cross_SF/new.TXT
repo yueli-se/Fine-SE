@@ -1,0 +1,1 @@
+[('mesos.csv', 'datamanagement.csv'),('usergrid.csv', 'mesos.csv'),('usergrid.csv', 'talenddataquality.csv'),('talenddataquality.csv', 'usergrid.csv')]
