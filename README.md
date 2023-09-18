@@ -26,7 +26,6 @@ pip install -r requirements.txt
 
 There are 3 baselines (i.e., `Expert Estimation`,  `Deep-SE`, and `GPT2SP`). To reproduce the results of baselines, run the following commands:
 
-- Expert Estimation
 
   ```shell
   python baselines/ExpertEstimation.py
@@ -55,26 +54,6 @@ python FineSE/OpenSource/FineSE/FineSE.py
 ```
 
 ### **FineSE Implementation**(Cross repo)
-
-To  reproduce the results of FineSE(Cross repo) on business data, first put the data on the corresponding path, and run the following command:
-
-- EF
-
-```shell
-python FineSE/Business/Cross_EF.py
-```
-
-- SF
-
-```bash
-python FineSE/Business/Cross_SF.py
-```
-
-- FineSE
-
-```bash
-python FineSE/Business/Cross_FineSE.py
-```
 
 To  reproduce the results of FineSE(Cross repo) on open source data, first put the data on the corresponding path, and run the following command:
 
