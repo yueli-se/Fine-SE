@@ -2,6 +2,12 @@
 
 This repository contains the source code and data that we used to perform the experiment in the paper titled "Fine-SE: Integrating Semantic Features and Expert Features for Software Effort Estimations".
 
+## Interview Materials
+
+One material related to the interview is contained in the folder `Interview`:
+
+- Questions for interviews: the pdf file `Questions for interviews.pdf` represents the questions used in interviews.
+
 ## Dataset
 
 - We use business data and open source data to train and test the performance of the baselines and our method named FineSE, the sample data is attached in the `data` directory.
